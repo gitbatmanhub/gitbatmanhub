@@ -16,10 +16,6 @@ Mis conocimientos!
 💻 - Google Analitycs <br>
 💻 - Google Adsense <br>
 
-
-
-
-
 Algunos proyectos básicos:
 
  🎹 <a href="https://app-piano01.netlify.app" target="_blank"> App Piano con Angular</a> <br>
@@ -27,5 +23,12 @@ Algunos proyectos básicos:
  🔐 <a href="https://passwordsgenerates.netlify.app" target="_blank"> Password Generator </a> <br>
  🖥 <a href="https://samplepage-html-css-js-jqueryui.netlify.app/index.html" target="_blank"> Página usando HTML, Css, Javascript y Jquery</a> <br>
  💻 <a href="https://elegant-bohr-0029b5.netlify.app" target="_blank"> Página web HTML y CSS</a> <br>
+
+Proyectos en los que he tomado parte
+
+ 🖥 <a href="https://rodolfoperezpimentel.com" target="_blank"> Página web Wordpress Rodolfo Prez Pimentel || Desarrollador Web</a> <br> 
+ 🖥 <a href="https://www.bloggazine.com" target="_blank"> Página web Wordpress Bloggazine || Desarrollador Web JR</a> <br> 
+ 🖥 <a href="https://olfatika.ec" target="_blank"> Página web Olfatika|| Desarrollador Web </a> <br> 
+
 
 
