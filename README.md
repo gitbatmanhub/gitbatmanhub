@@ -29,6 +29,7 @@ Proyectos en los que he tomado parte
  🖥 <a href="https://rodolfoperezpimentel.com" target="_blank"> Página web Wordpress Rodolfo Prez Pimentel || Desarrollador Web</a> <br> 
  🖥 <a href="https://www.bloggazine.com" target="_blank"> Página web Wordpress Bloggazine || Desarrollador Web JR</a> <br> 
  🖥 <a href="https://olfatika.ec" target="_blank"> Página web Olfatika|| Desarrollador Web </a> <br> 
+ 🖥 <a href="https://pirotecnics.com/home/" target="_blank"> Página web Pirotecnics|| Desarrollador Web </a> <br> 
 
 
 
