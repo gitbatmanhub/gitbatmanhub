@@ -1,7 +1,7 @@
 # 👨‍💻 Sobre mi:
 Desarrollador backend enfocado en crear soluciones seguras y escalables. Tengo experiencia en Node.js, NestJS, Flask y despliegues en AWS. Me especializo en APIs RESTful, microservicios y optimización de aplicaciones para alto rendimiento. Apasionado por la arquitectura de sistemas y la automatización de procesos, disfruto de los retos y de trabajar en equipo para impulsar proyectos innovadores. ¡Siempre abierto a colaborar en nuevas ideas!
 ## 🔨 Languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gitbatmanhub&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitbatmanhub&hide=html,css&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ##
 
 
